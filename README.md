@@ -43,6 +43,16 @@ https://github.com/othneildrew/Best-README-Template
 
 </a>
 
+### v0.1.1-241005
+
+- Criado a lista de links exibidos na página principal
+- Ajustes na disposição dos objetos na tela.
+- Criado um modal para detalhamento do link selecionado.
+- Estilização do modal.
+- Criado um componente para adicional funcionalidade no modal.
+- Criado uma nova tela de criação de categorias, e adicionado a navegação entre a tela principal e ela.
+- Adicionado uma validação de dados, para que não seja enviado informações faltando.
+
 ### v0.0.1-241004
 
 - Criado o `Header` da página principal do aplicativo.

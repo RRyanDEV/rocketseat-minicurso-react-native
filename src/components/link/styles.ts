@@ -12,13 +12,23 @@ export const stylesLink = StyleSheet.create({
   details: {
     flex: 1,
   },
-  name:{
+  name: {
     color: colors.gray[100],
     fontSize: 16,
-    fontWeight: "600"
+    fontWeight: "600",
   },
   url: {
     color: colors.gray[400],
-    fontSize: 14,   
-  }
+    fontSize: 14,
+  },
+  // Lista de Links
+  stylesLinkList: {
+    borderTopWidth: 1,
+    borderTopColor: colors.gray[600],
+  },
+  stylesLinksContent: {
+    gap: 20,
+    padding: 15,
+    paddingBottom: 100,
+  },
 });
