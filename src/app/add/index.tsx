@@ -29,7 +29,7 @@ export default function Add() {
     }
   }
 
-  const { container, addHeader, addTitle, label } = stylesAddIndex;
+  const { container, addHeader, addTitle, label, form } = stylesAddIndex;
   return (
     <>
       <View style={container}>
@@ -49,7 +49,7 @@ export default function Add() {
 
         <Categories onChange={setCategory} selected={category} />
 
-        <View style={stylesAddIndex.form}>
+        <View style={form}>
           <Input
             placeholder="Nome"
             onChangeText={setName}

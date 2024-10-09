@@ -30,7 +30,6 @@ https://github.com/othneildrew/Best-README-Template
 
 ### Construído com
 
-[![JavaScript][JS]][js-url]
 [![REACT][REACT]][react-url]
 [![TYPESCRIPT][TYPES]][type-url]
 [![EXPO][EXPO]][expo-url]
@@ -42,6 +41,10 @@ https://github.com/othneildrew/Best-README-Template
 ## Notas de versão
 
 </a>
+
+### v0.1.2-241009
+
+- Ajustes na importação dos estilos do Modal.
 
 ### v0.1.1-241005
 
@@ -93,11 +96,9 @@ https://github.com/othneildrew/Best-README-Template
 
 <!-- Tech -->
 
-[JS]: https://img.shields.io/badge/javascript-%23FFF000.svg?style=for-the-badge&logo=javascript&logoColor=black
-[js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [REACT]: https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
 [react-url]: https://pt-br.reactjs.org
 [TYPES]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
 [type-url]: https://www.typescriptlang.org
-[EXPO]:https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37
+[EXPO]: https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37
 [expo-url]: https://expo.dev
