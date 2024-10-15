@@ -11,7 +11,7 @@ export const stylesButton = StyleSheet.create({
       alignItems: "center",
     },
     title: {
-        color: colors.green[900],
+        color: colors.gray[100],
         fontSize: 16,
         fontWeight: "600",
     }

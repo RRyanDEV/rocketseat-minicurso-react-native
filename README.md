@@ -42,7 +42,15 @@ https://github.com/othneildrew/Best-README-Template
 
 </a>
 
-### v0.1.2-241009
+### v1.0.0-241015
+
+- Liberado a primeira versão para teste.
+- Correção do save duplicado de um link.
+- Adicionado funcionalidades no Modal.
+- Implementação do storage para tratar os dados adicionados ao aplicativo.
+- Modificação no modal.
+
+### v0.1.2-241015
 
 - Ajustes na importação dos estilos do Modal.
 

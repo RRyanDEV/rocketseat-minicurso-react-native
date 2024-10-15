@@ -2,7 +2,7 @@
   "expo": {
     "name": "ListLinks",
     "slug": "ListLinks",
-    "version": "0.1.2-241009",
+    "version": "1.0.0-241015",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",

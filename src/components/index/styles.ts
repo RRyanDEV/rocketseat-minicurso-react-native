@@ -16,11 +16,11 @@ export const stylesIndex = StyleSheet.create({
     marginBottom: 5,
   },
   logo: {
-    height: 32,
+    height: 52,
     width: 38,
   },
   title: {
-    color: colors.green[900],
+    color: colors.gray[100],
     fontSize: 22,
   },
 });

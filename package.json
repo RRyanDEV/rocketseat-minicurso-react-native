@@ -1,7 +1,7 @@
 {
   "name": "listlinks",
   "main": "expo-router/entry",
-  "version": "0.1.2-241009",
+  "version": "1.0.0-241015",
   "private": false,
   "author": "RRyanDEV",
   "license": "MIT",
